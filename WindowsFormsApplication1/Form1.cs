@@ -19,13 +19,27 @@ namespace WindowsFormsApplication1
 
         private void createProfileClick(object sender, EventArgs e)
         {
-            
+            FormCreateProfile fcp = new FormCreateProfile();
+            this.Close();
+            fcp.ShowDialog();
         }
 
         private void exitClick(object sender, EventArgs e)
         {
             Form2 exit = new Form2();
             exit.ShowDialog();
+        }
+
+        private void openOptionsMenu(object sender, EventArgs e)
+        {
+            Form3 options = new Form3();
+            options.ShowDialog();
+        }
+
+        private void openAboutMenu(object sender, EventArgs e)
+        {
+            Form4 about = new Form4();
+            about.ShowDialog();
         }
     }
 }
