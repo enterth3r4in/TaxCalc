@@ -19,3 +19,4 @@ C:\Users\as600\Documents\GitHub\TaxCalc\WindowsFormsApplication1\obj\Debug\Windo
 C:\Users\as600\Documents\GitHub\TaxCalc\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
 C:\Users\as600\Documents\GitHub\TaxCalc\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
 C:\Users\as600\Documents\GitHub\TaxCalc\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\as600\Documents\GitHub\TaxCalc\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FormCreateProfile.resources

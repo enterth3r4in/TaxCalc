@@ -20,7 +20,6 @@ namespace WindowsFormsApplication1
         private void createProfileClick(object sender, EventArgs e)
         {
             FormCreateProfile fcp = new FormCreateProfile();
-            this.Close();
             fcp.ShowDialog();
         }
 
