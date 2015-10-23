@@ -20,3 +20,6 @@ C:\Users\as600\Documents\GitHub\TaxCalc\WindowsFormsApplication1\obj\Debug\Windo
 C:\Users\as600\Documents\GitHub\TaxCalc\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
 C:\Users\as600\Documents\GitHub\TaxCalc\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
 C:\Users\as600\Documents\GitHub\TaxCalc\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FormCreateProfile.resources
+C:\Users\Cody\Desktop\C#\TaxCalc\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Cody\Desktop\C#\TaxCalc\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Cody\Desktop\C#\TaxCalc\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
